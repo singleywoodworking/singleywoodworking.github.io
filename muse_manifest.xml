@@ -1,0 +1,119 @@
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" ftp_hostname="ftpes://ftp.thebignow.com" ftp_rootfolder="/" exportTarget="FTP" domain="singleywoodworking.com" resolutions="1x" timestamp="1463148503582">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="3956811683" ref="furniture:traditional:dimensions:about:contruction:index:location:mission"/>
+    <file name="nomq_preview_master_a-master.css" crc="3801496803" ref="furniture:traditional:dimensions:about:contruction:index:location:mission"/>
+    <file name="furniture.css" crc="224655325" ref="furniture"/>
+    <file name="traditional.css" crc="521442684" ref="traditional"/>
+    <file name="dimensions.css" crc="127338233" ref="dimensions"/>
+    <file name="about.css" crc="4124441507" ref="about"/>
+    <file name="contruction.css" crc="3830094366" ref="contruction"/>
+    <file name="index.css" crc="3913351776" ref="index"/>
+    <file name="nomq_index.css" crc="39577998" ref="index"/>
+    <file name="location.css" crc="3971351692" ref="location"/>
+    <file name="mission.css" crc="402978759" ref="mission"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:about:furniture:location:contruction:traditional:mission:dimensions"/>
+    <file name="museutils.js" crc="531812214" ref="index:about:furniture:location:contruction:traditional:mission:dimensions"/>
+    <file name="whatinput.js" crc="84559013" ref="index:about:furniture:location:contruction:traditional:mission:dimensions"/>
+    <file name="pie.js" crc="3827607177" ref="index:about:furniture"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:about:furniture:location:contruction:traditional:mission:dimensions"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:about:furniture:location:contruction:traditional:mission:dimensions"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:furniture:location:contruction:traditional:mission:dimensions"/>
+    <file name="jquery.museresponsive.js" crc="367458044" ref="index"/>
+    <file name="webpro.js" crc="4156477058" ref="contruction:traditional:mission"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="contruction:traditional:mission"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="contruction:traditional:mission"/>
+    <file name="touchswipe.js" crc="4174436727" ref="contruction:traditional:mission"/>
+  </folder>
+  <folder name="images">
+    <file name="u441-4.png" crc="4078435120" ref="index:about:furniture:location:contruction:traditional:mission:dimensions"/>
+    <file name="u511-9.png" crc="4105349101" ref="index:about:furniture:location:contruction:traditional:mission:dimensions"/>
+    <file name="sauna-en-bois-wallpaper-android-fond-ecran-crop-u1233.jpg" crc="153609535" ref="index:about:furniture:location:contruction:traditional:mission:dimensions"/>
+    <file name="u276-8.png" crc="105579952" ref="index"/>
+    <file name="made-u1522.png" crc="445151186" ref="index:about:furniture:location:contruction:traditional:mission:dimensions"/>
+    <file name="facebook-button-like-lg.jpg" crc="9788665" seo="true" ref="index:about:furniture:location:contruction:traditional:mission:dimensions"/>
+    <file name="u1369-4.png" crc="233245479" ref="index:about:furniture:location:contruction:traditional:mission:dimensions"/>
+    <file name="u276-82.png" crc="502240907" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contruction:traditional:mission"/>
+    <file name="riley.jpg" crc="4084045663" seo="true" ref="about"/>
+    <file name="sww 301 case construction.jpg" crc="56566808" seo="true" ref="contruction"/>
+    <file name="sww 302 case construction b 100_0115.jpg" crc="359046677" seo="true" ref="contruction"/>
+    <file name="sww 303 constructon drawer guides 100_0116.jpg" crc="4108625385" seo="true" ref="contruction"/>
+    <file name="sww 301 case construction60x46.jpg" crc="4154867557" seo="true" ref="contruction"/>
+    <file name="sww 302 case construction b 100_011560x46.jpg" crc="4074237119" seo="true" ref="contruction"/>
+    <file name="sww 303 constructon drawer guides 100_011660x46.jpg" crc="468834093" seo="true" ref="contruction"/>
+    <file name="loading.gif" crc="3815509949" ref="contruction:traditional:mission"/>
+    <file name="101 100_0120 dresser.jpg" crc="288097060" seo="true" ref="traditional"/>
+    <file name="105 100_0170 dresser w mirror-crop-u2873.jpg" crc="4075398514" ref="traditional"/>
+    <file name="106 img_0135 dresser styles.jpg" crc="88272990" seo="true" ref="traditional"/>
+    <file name="107 img_0126 stacked chest-crop-u2913.jpg" crc="4089183711" ref="traditional"/>
+    <file name="108 img_0140 bed.jpg" crc="4243682704" seo="true" ref="traditional"/>
+    <file name="109 img_0122 lingerie and stacked chest.jpg" crc="149713273" seo="true" ref="traditional"/>
+    <file name="110 img_0106 bachelor chest.jpg" crc="417132987" seo="true" ref="traditional"/>
+    <file name="111 img_0117 walnut stacked chest - night stand.jpg" crc="3941238184" seo="true" ref="traditional"/>
+    <file name="101 100_0120 dresser60x45.jpg" crc="3775262814" seo="true" ref="traditional"/>
+    <file name="105 100_0170 dresser w mirror-crop-u2879.jpg" crc="4212324371" ref="traditional"/>
+    <file name="106 img_0135 dresser styles60x45.jpg" crc="94000295" seo="true" ref="traditional"/>
+    <file name="107 img_0126 stacked chest-crop-u2919.jpg" crc="3791826536" ref="traditional"/>
+    <file name="108 img_0140 bed60x45.jpg" crc="4258030432" seo="true" ref="traditional"/>
+    <file name="109 img_0122 lingerie and stacked chest60x45.jpg" crc="4228072825" seo="true" ref="traditional"/>
+    <file name="110 img_0106 bachelor chest60x45.jpg" crc="161250685" seo="true" ref="traditional"/>
+    <file name="111 img_0117 walnut stacked chest - night stand60x45.jpg" crc="106015516" seo="true" ref="traditional"/>
+    <file name="img_0272 dresser 6-2.jpg" crc="3829977811" seo="true" ref="mission"/>
+    <file name="img_0273 dresser 4-4.jpg" crc="3965285806" seo="true" ref="mission"/>
+    <file name="img_0277 chest 2-4-crop-u3167.jpg" crc="4238208692" ref="mission"/>
+    <file name="img_0280 night stand - 3 drawer.jpg" crc="351851842" seo="true" ref="mission"/>
+    <file name="img_0272 dresser 6-260x45.jpg" crc="4188267261" seo="true" ref="mission"/>
+    <file name="img_0273 dresser 4-460x45.jpg" crc="3766295817" seo="true" ref="mission"/>
+    <file name="img_0277 chest 2-4-crop-u3173.jpg" crc="4172934422" ref="mission"/>
+    <file name="img_0280 night stand - 3 drawer60x45.jpg" crc="4107212037" seo="true" ref="mission"/>
+    <file name="untitled-1-u3862.png" crc="3934416003" ref="index"/>
+    <file name="untitled-1-u38622.png" crc="76386036" ref="index"/>
+  </folder>
+  <file name="index.html" crc="117649194" seo="true" mt="1463148499592" redirect="true"/>
+  <file name="about.html" crc="182994579" seo="true" mt="1463148499501" redirect="true"/>
+  <file name="furniture.html" crc="51464873" seo="true" mt="1463148499501" redirect="true"/>
+  <file name="location.html" crc="299403422" seo="true" mt="1463148499501" redirect="true"/>
+  <file name="contruction.html" crc="40979557" seo="true" mt="1463148499501" redirect="true"/>
+  <file name="traditional.html" crc="4047986957" seo="true" mt="1463148499501" redirect="true"/>
+  <file name="mission.html" crc="407021086" seo="true" mt="1463148499501" redirect="true"/>
+  <file name="dimensions.html" crc="4195506091" seo="true" mt="1463148499501" redirect="true"/>
+  <site/>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U83" maxwidth="960" minwidth="0" squishy="true"/>
+        <breakpoint uid="U151" maxwidth="1206" minwidth="961" squishy="true"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="1200" minwidth="0" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="About" filename="about.html" muse_href="page:U396" master="U72">
+        <breakpoint uid="U386" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Furniture" filename="furniture.html" muse_href="page:U465" master="U72">
+        <breakpoint uid="U453" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Location" filename="location.html" muse_href="page:U559" master="U72">
+        <breakpoint uid="U547" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Contruction" filename="contruction.html" muse_href="page:U2143" master="U72">
+        <breakpoint uid="U2127" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Traditional" filename="traditional.html" muse_href="page:U2585" master="U72">
+        <breakpoint uid="U2569" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Mission" filename="mission.html" muse_href="page:U2603" master="U72">
+        <breakpoint uid="U2587" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Dimensions" filename="dimensions.html" muse_href="page:U2621" master="U72">
+        <breakpoint uid="U2605" maxwidth="1200" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
